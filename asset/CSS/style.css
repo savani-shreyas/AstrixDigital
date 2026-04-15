@@ -216,6 +216,7 @@ button, .btn {
     font-weight: 600;
     font-size: 0.875rem;
     margin-bottom: 1.5rem;
+    box-shadow: 4px 4px 8px var(--neumorphic-shadow-dark), -4px -4px 8px var(--neumorphic-shadow-light);    
 }
 
 .hero-content h1 {
