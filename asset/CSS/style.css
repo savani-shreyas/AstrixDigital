@@ -1125,4 +1125,7 @@ button, .btn {
     .nav-cta{
         margin-right: -45px;
     }
+    .contact-form-wrapper {
+        padding: 1.6rem 1.5rem;
+    }
 }
